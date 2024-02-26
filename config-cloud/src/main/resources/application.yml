@@ -11,4 +11,4 @@ spring:
           search-paths: config-file/**
           default-label: main
           username: jun
-          password: 5483
+          password: 1234
